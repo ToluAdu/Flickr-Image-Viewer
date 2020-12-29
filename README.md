@@ -1,2 +1,2 @@
 # Flickr-Image-Viewer
-Mobile application
+Created a third-party dynamic data viewing Android application using the Flickr API.
